@@ -1,0 +1,81 @@
+https://github.com/nagesh-makanapur/Hack-Ula.git<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcements - CampusFlow</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="flex min-h-screen">
+        <!-- Sidebar -->
+        <div class="w-64 bg-gradient-to-b from-indigo-50 to-indigo-100 h-screen shadow-lg p-5 border-r border-indigo-200">
+            <h2 class="text-2xl font-extrabold mb-8 text-indigo-700 tracking-wide">🎓 CampusFlow</h2>
+            <nav class="space-y-3">
+                <a href="index.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">
+                    <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="3" width="18" height="18" rx="2" />
+                        <path d="M3 9h18" />
+                    </svg>
+                    Dashboard
+                </a>
+                <a href="assignments.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">
+                    <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2" />
+                        <rect x="9" y="3" width="6" height="4" rx="1" />
+                        <path d="M9 14h6" />
+                        <path d="M9 10h6" />
+                        <path d="M9 18h6" />
+                    </svg>
+                    Assignments
+                </a>
+                <a href="alerts.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">
+                    <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9" />
+                        <path d="M13.73 21a2 2 0 0 1-3.46 0" />
+                    </svg>
+                    Alerts
+                </a>
+                <a href="announcements.html" class="flex items-center gap-2 p-2 rounded-md bg-indigo-200 text-indigo-900 font-semibold">
+                    <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 3v10M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9-4.03-9-9-9z" />
+                        <path d="M12 17h.01" />
+                    </svg>
+                    Announcements
+                </a>
+            </nav>
+        </div>
+
+        <!-- Main Content -->
+        <div class="flex-1 p-8">
+            <div class="max-w-4xl mx-auto">
+                <div class="flex justify-between items-center mb-6">
+                    <h1 class="text-3xl font-bold text-gray-800">📢 Announcements</h1>
+                </div>
+
+                <!-- Announcements Container -->
+                <div id="announcements-container" class="space-y-4">
+                    <!-- Announcements will be dynamically inserted here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Load socket.io client from CDN so page can be opened independently -->
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            loadAnnouncements();
+        });
+
+        // Listen for real-time announcements
+        socket.on('announcement', (announcement) => {
+            console.log('New announcement received:', announcement);
+            loadAnnouncements(); // Refresh the list
+        });
+    </script>
+</body>
+</html>

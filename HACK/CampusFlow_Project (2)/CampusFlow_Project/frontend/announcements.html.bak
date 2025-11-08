@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcements - CampusFlow (backup)</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="flex min-h-screen">
+        <!-- Sidebar -->
+        <div class="w-64 bg-gradient-to-b from-indigo-50 to-indigo-100 h-screen shadow-lg p-5 border-r border-indigo-200">
+            <h2 class="text-2xl font-extrabold mb-8 text-indigo-700 tracking-wide">🎓 CampusFlow</h2>
+            <nav class="space-y-3">
+                <a href="index.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">Dashboard</a>
+                <a href="assignments.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">Assignments</a>
+                <a href="alerts.html" class="flex items-center gap-2 p-2 rounded-md text-indigo-700 hover:bg-indigo-100 hover:text-indigo-800">Alerts</a>
+                <a href="announcements.html" class="flex items-center gap-2 p-2 rounded-md bg-indigo-200 text-indigo-900 font-semibold">Announcements</a>
+            </nav>
+        </div>
+
+        <!-- Main Content -->
+        <div class="flex-1 p-8">
+            <div class="max-w-4xl mx-auto">
+                <div class="flex justify-between items-center mb-6">
+                    <h1 class="text-3xl font-bold text-gray-800">📢 Announcements</h1>
+                    <button id="new-announcement-btn" class="bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition-colors">+ New Announcement</button>
+                </div>
+                <div id="announcement-form" class="hidden bg-white p-6 rounded-lg shadow-md mb-6">(form...)</div>
+                <div id="announcements-container" class="space-y-4">(content...)</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

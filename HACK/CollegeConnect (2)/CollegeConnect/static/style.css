@@ -1,0 +1,5 @@
+body { font-family: "Poppins",sans-serif; background: linear-gradient(180deg,#f1f8ff,#ffffff); }
+.card { border-radius: 12px; }
+.update-card { transition: transform .2s ease, box-shadow .2s ease; }
+.update-card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(3, 34, 76, 0.08); }
+.btn-primary { background: linear-gradient(90deg,#0ea5e9,#0369a1); border: none; }

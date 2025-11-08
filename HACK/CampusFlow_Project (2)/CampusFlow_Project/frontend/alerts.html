@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alerts - CampusFlow</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { 
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: #fafafa;
+        }
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body class="bg-[#fafafa]">
+    <div class="flex min-h-screen">
+        <!-- Sidebar -->
+        <div class="w-64 glass-effect fixed h-screen p-5">
+            <h2 class="text-2xl font-bold mb-8 text-indigo-600">
+                <span class="flex items-center gap-2">
+                    <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none">
+                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" fill="#4f46e5" opacity="0.2"/>
+                        <path d="M12 12a3 3 0 100-6 3 3 0 000 6z" fill="#4f46e5"/>
+                    </svg>
+                    CampusFlow
+                </span>
+            </h2>
+            <nav class="space-y-3">
+                <a href="index.html" class="flex items-center gap-4 px-5 py-4 text-gray-600 hover:text-indigo-600 hover:bg-indigo-50 rounded-xl transition-all duration-200">
+                    <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path d="M4 6a2 2 0 012-2h12a2 2 0 012 2v12a2 2 0 01-2 2H6a2 2 0 01-2-2V6z"/>
+                        <path d="M4 10h16"/>
+                    </svg>
+                    <span class="text-base">Dashboard</span>
+                </a>
+                <a href="alerts.html" class="flex items-center gap-4 px-5 py-4 bg-indigo-50 text-indigo-600 rounded-xl font-medium">
+                    <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+                    </svg>
+                    <span class="text-base">Alerts</span>
+                </a>
+                <a href="assignments.html" class="flex items-center gap-3 px-4 py-3 text-gray-600 hover:text-indigo-600 hover:bg-indigo-50 rounded-lg transition-all duration-200">
+                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/>
+                    </svg>
+                    Assignments
+                </a>
+                <a href="announcements.html" class="flex items-center gap-3 px-4 py-3 text-gray-600 hover:text-indigo-600 hover:bg-indigo-50 rounded-lg transition-all duration-200">
+                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z"/>
+                    </svg>
+                    Announcements
+                </a>
+            </nav>
+        </div>
+
+        <!-- Main Content -->
+        <div class="flex-1 pl-72">
+            <div class="max-w-4xl mx-auto py-10 px-8">
+                <div class="flex justify-between items-start mb-12">
+                    <div>
+                        <div class="flex items-center gap-4 mb-4">
+                            <div class="bg-indigo-100 rounded-full p-3">
+                                <svg class="w-7 h-7 text-indigo-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h1 class="text-3xl font-bold text-gray-900 mb-2">Alerts</h1>
+                                <p class="text-gray-500 text-lg">Stay updated with important notifications</p>
+                            </div>
+                        </div>
+                    </div>
+                    <button id="new-alert-btn" class="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg transition-all duration-200 flex items-center gap-2">
+                        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+                        </svg>
+                        <span class="font-medium">New Alert</span>
+                    </button>
+                </div>
+
+                <!-- New Alert Form (hidden by default) -->
+                <div id="alert-form" class="hidden glass-effect p-8 rounded-xl mb-8">
+                    <div class="flex justify-between items-center mb-6">
+                        <h2 class="text-2xl font-bold text-gray-900">Create New Alert</h2>
+                        <button type="button" id="cancel-alert" class="text-gray-400 hover:text-gray-600 p-2">
+                            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                            </svg>
+                        </button>
+                    </div>
+                    <form id="create-alert-form">
+                        <div class="mb-6">
+                            <label for="message" class="block text-gray-700 font-medium mb-3">Alert Message</label>
+                            <textarea id="message" name="message" rows="4" 
+                                class="w-full px-4 py-3 bg-white border border-gray-200 rounded-xl text-base focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-colors" 
+                                required 
+                                placeholder="Type your alert message here..."></textarea>
+                        </div>
+                        <div class="flex justify-end gap-4">
+                            <button type="submit" class="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-xl transition-colors text-base font-medium">
+                                Send Alert
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- Sound toggle -->
+                <div class="mb-6">
+                    <label class="glass-effect flex items-center gap-3 p-3 rounded-lg cursor-pointer group w-fit">
+                        <input type="checkbox" id="sound-toggle" class="w-4 h-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
+                        <span class="text-gray-600 group-hover:text-gray-900 transition-colors">Alert sounds</span>
+                    </label>
+                </div>
+                
+                <!-- Alerts List -->
+                <div id="alerts-list" class="space-y-8 mt-8">
+                    <!-- Alerts will be dynamically inserted here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+    <audio id="alert-sound" src="sounds/alert.mp3" preload="auto"></audio>
+    <script>
+        // Log backend URL for debugging
+        console.info('🔧 Backend URL:', (typeof BACKEND_BASE !== 'undefined') ? BACKEND_BASE : window.location.origin);
+        
+        // Load alerts when page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            loadAlerts();
+        });
+
+    // Prefer socket created by script.js. Don't redeclare global `socket` (that breaks scripts).
+    const pageSocket = (typeof socket !== 'undefined') ? socket : ((typeof io === 'function') ? io() : null);
+
+        // Get DOM elements
+        const alertsList = document.getElementById('alerts-list');
+        const newAlertBtn = document.getElementById('new-alert-btn');
+        const alertForm = document.getElementById('alert-form');
+        const createAlertForm = document.getElementById('create-alert-form');
+        const cancelAlertBtn = document.getElementById('cancel-alert');
+        const soundToggle = document.getElementById('sound-toggle');
+        const alertSound = document.getElementById('alert-sound');
+
+        // Load sound preference from localStorage
+        soundToggle.checked = localStorage.getItem('alertSound') === 'true';
+
+        // Event Listeners
+        soundToggle.addEventListener('change', (e) => {
+            localStorage.setItem('alertSound', e.target.checked);
+        });
+
+        newAlertBtn.addEventListener('click', () => {
+            alertForm.classList.remove('hidden');
+            newAlertBtn.classList.add('hidden');
+        });
+
+        cancelAlertBtn.addEventListener('click', () => {
+            alertForm.classList.add('hidden');
+            newAlertBtn.classList.remove('hidden');
+            createAlertForm.reset();
+        });
+
+        createAlertForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const submitBtn = createAlertForm.querySelector('button[type="submit"]');
+            const originalBtnText = submitBtn.textContent;
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Sending...';
+            
+            const formData = {
+                message: document.getElementById('message').value
+            };
+
+            try {
+                const url = (typeof BACKEND_BASE !== 'undefined') ? `${BACKEND_BASE}/alerts` : `${window.location.origin}/alerts`;
+                console.debug('📤 Sending alert to:', url);
+                
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const responseData = await response.json();
+                console.debug('📥 Alert response:', responseData);
+
+                if (!response.ok) {
+                    throw new Error(responseData.error || 'Failed to send alert');
+                }
+
+                // Add alert to UI immediately for instant feedback
+                if (responseData.alert) {
+                    addAlertToList(responseData.alert);
+                    removeEmptyState();
+                }
+
+                // Hide form and show button
+                alertForm.classList.add('hidden');
+                newAlertBtn.classList.remove('hidden');
+                createAlertForm.reset();
+
+                // Show success message
+                showNotification('Alert sent successfully!', 'success');
+            } catch (error) {
+                console.error('❌ Error sending alert:', error);
+                showNotification('Failed to send alert: ' + error.message, 'error');
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = originalBtnText;
+            }
+        });
+
+        // Load existing alerts
+        const alertsUrl = (typeof BACKEND_BASE !== 'undefined') ? `${BACKEND_BASE}/alerts` : `${window.location.origin}/alerts`;
+        fetch(alertsUrl)
+            .then(res => res.json())
+            .then(alerts => {
+                if (alerts.length === 0) {
+                    showEmptyState();
+                } else {
+                    alerts.forEach(alert => {
+                        addAlertToList(alert);
+                    });
+                }
+            })
+            .catch(err => {
+                console.error('Error loading alerts:', err);
+                showNotification('Failed to load alerts. Please refresh the page.', 'error');
+            });
+
+        // Listen for new alerts
+        if (pageSocket) {
+            pageSocket.on('alert', alert => {
+                addAlertToList(alert);
+                removeEmptyState();
+                // Play sound if enabled
+                if (soundToggle.checked) {
+                    alertSound.play().catch(err => console.log('Error playing sound:', err));
+                }
+            });
+        }
+
+        function addAlertToList(alert) {
+            const div = document.createElement('div');
+            div.className = 'glass-effect rounded-xl mb-8 overflow-hidden transition-all duration-200 hover:shadow-md';
+            
+            // Parse the message to detect type and due date
+            const isAssignment = alert.message.toLowerCase().includes('assignment');
+            const isAnnouncement = alert.message.toLowerCase().includes('announcement');
+            const isExam = alert.message.toLowerCase().includes('exam');
+            const isQuiz = alert.message.toLowerCase().includes('quiz');
+            
+            // Extract due date if present
+            let dueDate = null;
+            const dueDateMatch = alert.message.match(/(?:due|at|on)\s*([\d/:-\s]+(?:am|pm)?)/i);
+            if (dueDateMatch) {
+                dueDate = new Date(dueDateMatch[1]);
+            }
+            
+            // Determine alert type and icon
+            let alertType = 'default';
+            let iconPath = '';
+            let bgColor = 'bg-indigo-100';
+            let iconColor = 'text-indigo-600';
+            
+            if (isAssignment) {
+                alertType = 'assignment';
+                iconPath = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"/>';
+                bgColor = 'bg-blue-100';
+                iconColor = 'text-blue-600';
+            } else if (isAnnouncement) {
+                alertType = 'announcement';
+                iconPath = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z"/>';
+                bgColor = 'bg-purple-100';
+                iconColor = 'text-purple-600';
+            } else if (isExam || isQuiz) {
+                alertType = 'exam';
+                iconPath = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>';
+                bgColor = 'bg-red-100';
+                iconColor = 'text-red-600';
+            } else {
+                iconPath = '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>';
+            }
+
+            const timestamp = new Date(alert.timestamp).toLocaleString();
+            
+            // Calculate time remaining for assignments/exams
+            let timeRemainingHtml = '';
+            if (dueDate && (isAssignment || isExam || isQuiz)) {
+                const now = new Date();
+                const timeRemaining = dueDate - now;
+                const daysRemaining = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
+                const hoursRemaining = Math.floor((timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                
+                if (timeRemaining > 0) {
+                    timeRemainingHtml = `
+                        <div class="mt-3 flex items-center gap-2">
+                            <svg class="w-4 h-4 ${iconColor}" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                            </svg>
+                            <span class="text-sm font-medium ${iconColor}">
+                                Time remaining: ${daysRemaining > 0 ? `${daysRemaining}d ` : ''}${hoursRemaining}h
+                            </span>
+                        </div>`;
+                }
+            }
+            
+            div.innerHTML = `
+                <div class="p-6">
+                    <div class="flex items-center justify-between mb-5">
+                        <div class="flex items-center gap-3">
+                            <div class="${bgColor} rounded-full p-2.5">
+                                <svg class="w-5 h-5 ${iconColor}" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                    ${iconPath}
+                                </svg>
+                            </div>
+                            <span class="text-base text-gray-500 font-medium">${timestamp}</span>
+                        </div>
+                        <div class="h-3 w-3 rounded-full ${bgColor.replace('100', '600')}"></div>
+                    </div>
+                    <div class="ml-11">
+                        <p class="text-gray-800 text-lg leading-[1.8] whitespace-pre-wrap">${escapeHtml(alert.message)}</p>
+                        ${timeRemainingHtml}
+                    </div>
+                </div>
+            `;
+            
+            alertsList.insertBefore(div, alertsList.firstChild);
+        }
+
+        function showEmptyState() {
+            alertsList.innerHTML = `
+                <div class="glass-effect rounded-lg p-8 text-center">
+                    <div class="bg-indigo-50 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+                        <svg class="w-8 h-8 text-indigo-600" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg font-semibold text-gray-900 mb-1">No Alerts Yet</h3>
+                    <p class="text-gray-500">All important notifications will appear here</p>
+                </div>
+            `;
+        }
+
+        function removeEmptyState() {
+            if (alertsList.querySelector('.text-center')) {
+                alertsList.innerHTML = '';
+            }
+        }
+
+        function showNotification(message, type = 'success') {
+            const notification = document.createElement('div');
+            notification.className = `fixed top-4 right-4 p-4 rounded-lg shadow-lg text-white ${
+                type === 'success' ? 'bg-green-500' : 'bg-red-500'
+            } transform transition-all duration-300 opacity-0`;
+            notification.textContent = message;
+            
+            document.body.appendChild(notification);
+            
+            // Fade in
+            setTimeout(() => notification.classList.add('opacity-100'), 10);
+            
+            // Fade out and remove
+            setTimeout(() => {
+                notification.classList.remove('opacity-100');
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
+        }
+
+        function escapeHtml(unsafe) {
+            return unsafe
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+    </script>
+</body>
+</html>

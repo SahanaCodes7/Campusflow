@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">
+  <div class="col-md-6" id="updatesColumn">
+    <div class="card shadow-sm mb-4">
+      <div class="card-body">
+        <h4 class="card-title">Add Update</h4>
+
+        <!-- FORM: Add Update -->
+        <form id="updateForm" action="{{ url_for('add_update') }}" method="POST">
+          <div class="mb-2">
+            <label class="form-label">Title</label>
+            <input name="title" class="form-control" required>
+          </div>
+          <div class="mb-2">
+            <label class="form-label">Type</label>
+            <select name="type" class="form-select">
+              <option>Fees</option>
+              <option>HallTicket</option>
+              <option>Notice</option>
+              <option>General</option>
+              <option>Assignment</option>
+              <option>Alert</option>
+            </select>
+          </div>
+          <div class="mb-2">
+            <label class="form-label">Date & Time</label>
+            <input name="datetime" type="datetime-local" class="form-control">
+          </div>
+          <div class="mb-2">
+            <label class="form-label">Content</label>
+            <textarea name="content" class="form-control" rows="4"></textarea>
+          </div>
+          <div class="text-end">
+            <button type="submit" class="btn btn-primary">Save & Sync</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- RECENT ACTIONS CARD -->
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Recent Actions</h5>
+        <p class="text-muted small">New updates are synced with CampusFlow automatically.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RIGHT SIDE COLUMN: Updates -->
+  <div class="col-md-6">
+    <h4>Updates</h4>
+    {% for u in updates %}
+      <div class="card mb-3 update-card">
+        <div class="card-body">
+          <div class="d-flex justify-content-between">
+            <div>
+              <h5 class="mb-1">
+                {{ u.title }}
+                <span class="badge bg-info text-dark ms-2">{{ u.type }}</span>
+              </h5>
+              <p class="mb-1 text-muted">{{ u.content or u.description }}</p>
+              <small class="text-muted">
+                <i class="bi bi-clock"></i> {{ u.datetime }}
+              </small>
+            </div>
+            {% if u.get('id') %}
+            <div>
+              <form action="{{ url_for('delete_update', update_id=u.id) }}" method="post"
+                    onsubmit="return confirm('Delete this update?');">
+                <button class="btn btn-sm btn-outline-danger">
+                  <i class="bi bi-trash"></i>
+                </button>
+              </form>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% else %}
+      <div class="alert alert-info">No updates yet.</div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- ======= Alert Trigger Script ======= -->
+<script>
+  (function(){
+    const form = document.getElementById('updateForm');
+    if (!form) {
+      console.warn("updateForm not found!");
+      return;
+    }
+
+    form.addEventListener('submit', function(e) {
+      try {
+        // Get values from form inputs
+        const title = form.querySelector('input[name="title"]').value.trim() || "Untitled Update";
+        const type = form.querySelector('select[name="type"]').value || "General";
+        const datetime = form.querySelector('input[name="datetime"]').value || "";
+        const content = form.querySelector('textarea[name="content"]').value.trim() || "";
+
+        // Build a readable alert message
+        const message = `🆕 ${title} (${type})${ datetime ? ' at ' + datetime : '' }`;
+
+        // Trigger Node alert via base.html system
+        if (typeof onUserAction === "function") {
+          onUserAction("update_created", {
+            message,
+            meta: { title, type, datetime, content }
+          });
+          console.log("Alert triggered to backend:", message);
+        } else {
+          console.error("onUserAction not found — ensure base.html has alert script loaded.");
+        }
+      } catch (err) {
+        console.error("Error creating alert payload:", err);
+      }
+
+      // Form will still submit normally to Flask
+    });
+  })();
+</script>
+{% endblock %}

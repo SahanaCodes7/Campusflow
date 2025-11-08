@@ -1,0 +1,228 @@
+{
+  "updates": [
+    {
+      "id": 2,
+      "title": "IA ",
+      "type": "HallTicket",
+      "datetime": "2025-11-12T15:30",
+      "content": "Come and Collect"
+    },
+    {
+      "id": 3,
+      "title": "IA 2",
+      "type": "Fees",
+      "datetime": "2025-11-12T16:30",
+      "content": "Come and collect"
+    },
+    {
+      "id": 4,
+      "title": "IA3",
+      "type": "Fees",
+      "datetime": "2025-11-12T12:20",
+      "content": "."
+    },
+    {
+      "id": 5,
+      "title": "IA marks upadtes",
+      "type": "General",
+      "datetime": "2025-11-12T15:30",
+      "content": ","
+    },
+    {
+      "id": 6,
+      "title": "Holiday",
+      "type": "Notice",
+      "datetime": "2025-11-07T21:25",
+      "content": "This week Saturday will be holiday"
+    },
+    {
+      "id": 7,
+      "title": "Sem exams",
+      "type": "HallTicket",
+      "datetime": "2025-11-22T11:14",
+      "content": "Students are  instructed to collect their hall tickets before 22nd of this month"
+    },
+    {
+      "id": 8,
+      "title": "College fees",
+      "type": "Fees",
+      "datetime": "2025-11-07T11:11",
+      "content": "All students clear your dues"
+    },
+    {
+      "id": 9,
+      "title": "College fees",
+      "type": "Fees",
+      "datetime": "2025-11-07T11:11",
+      "content": "All students clear your dues"
+    },
+    {
+      "id": 10,
+      "title": "IA 3",
+      "type": "HallTicket",
+      "datetime": "2025-11-12T21:35",
+      "content": "regarding IA 3 exams"
+    },
+    {
+      "title": "IA 4",
+      "content": "",
+      "type": "HallTicket",
+      "datetime": "2025-11-11T11:11",
+      "id": 33
+    },
+    {
+      "title": "New Assignment: DBMS Lab Report Submission",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086328",
+      "type": "assignment",
+      "id": 34
+    },
+    {
+      "title": "New Assignment: Operating Systems Quiz",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086664",
+      "type": "assignment",
+      "id": 35
+    },
+    {
+      "title": "New Assignment: AI Mini Project Proposal",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086675",
+      "type": "assignment",
+      "id": 36
+    },
+    {
+      "title": "New Assignment: IOT Assignment 1",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086681",
+      "type": "assignment",
+      "id": 37
+    },
+    {
+      "title": "New Assignment: IOT assignment 1",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086687",
+      "type": "assignment",
+      "id": 38
+    },
+    {
+      "title": "New Assignment: CV Assignment 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086694",
+      "type": "assignment",
+      "id": 39
+    },
+    {
+      "title": "New Assignment: PC Seminar",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086699",
+      "type": "assignment",
+      "id": 40
+    },
+    {
+      "title": "New Assignment: IOT Assignments",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086705",
+      "type": "assignment",
+      "id": 41
+    },
+    {
+      "title": "New Assignment: Water Assignment",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086712",
+      "type": "assignment",
+      "id": 42
+    },
+    {
+      "title": "New Assignment: Water Assignment 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086718",
+      "type": "assignment",
+      "id": 43
+    },
+    {
+      "title": "New Assignment: Water assignment 3",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086724",
+      "type": "assignment",
+      "id": 44
+    },
+    {
+      "title": "New Assignment: CV 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086730",
+      "type": "assignment",
+      "id": 45
+    },
+    {
+      "title": "New Assignment: CV 3",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086736",
+      "type": "assignment",
+      "id": 46
+    },
+    {
+      "title": "New Assignment: CV 4",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086743",
+      "type": "assignment",
+      "id": 47
+    },
+    {
+      "title": "New Assignment: IOT 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086750",
+      "type": "assignment",
+      "id": 48
+    },
+    {
+      "title": "New Assignment: IOT 4",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086757",
+      "type": "assignment",
+      "id": 49
+    },
+    {
+      "title": "New Assignment: IOT 5",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086764",
+      "type": "assignment",
+      "id": 50
+    },
+    {
+      "title": "New Assignment: New Assignment",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086772",
+      "type": "assignment",
+      "id": 51
+    },
+    {
+      "title": "New Assignment: CN",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086779",
+      "type": "assignment",
+      "id": 52
+    },
+    {
+      "id": 11,
+      "title": "Assignment",
+      "content": "Assignment Due",
+      "type": "Assignment",
+      "datetime": "2025-11-11T23:35"
+    },
+    {
+      "id": 31,
+      "title": "Alert: Integration Test Alert",
+      "content": "Test from assistant",
+      "datetime": "2025-11-07T18:53:39.563Z",
+      "type": "alert"
+    },
+    {
+      "id": 32,
+      "title": "Integration Test Alert",
+      "content": "Test from assistant",
+      "type": "Integration Test Alert",
+      "datetime": "2025-11-07T18:53:39.563Z"
+    }
+  ]
+}

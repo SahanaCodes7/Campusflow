@@ -1,0 +1,131 @@
+{
+  "assignments": [
+    {
+      "title": "IOT Assignment 1",
+      "deadline": "2025-11-04T02:00",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT assignment 1",
+      "deadline": "2025-11-04T02:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV Assignment 2",
+      "deadline": "2025-11-04T14:30",
+      "status": "Pending"
+    },
+    {
+      "title": "PC Seminar",
+      "deadline": "2025-11-04T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT Assignments",
+      "deadline": "2025-11-04T16:30",
+      "status": "Pending"
+    },
+    {
+      "title": "Water Assignment",
+      "deadline": "2025-11-16T16:20",
+      "status": "Pending"
+    },
+    {
+      "title": "Water Assignment 2",
+      "deadline": "2025-11-05T12:30",
+      "status": "Pending"
+    },
+    {
+      "title": "Water assignment 3",
+      "deadline": "2025-11-12T13:20",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 2",
+      "deadline": "2025-11-25T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 3",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 4",
+      "deadline": "2025-11-05T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 2",
+      "deadline": "2025-11-15T16:25",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 4",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 5",
+      "deadline": "2025-11-15T13:20",
+      "status": "Pending"
+    },
+    {
+      "title": "New Assignment",
+      "deadline": "2025-11-15T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "CN",
+      "deadline": "2025-11-10T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "E2E Test Assignment from Assistant",
+      "deadline": "2025-12-01T12:00",
+      "status": "Pending",
+      "description": "E2E test desc",
+      "attachmentUrl": "/uploads/test_attach.pdf"
+    },
+    {
+      "title": "ML",
+      "deadline": "2025-02-08T17:45",
+      "status": "Pending",
+      "description": "Assignment 2",
+      "attachmentUrl": "/uploads/pdf-1762603850841-976972479.pdf",
+      "id": "0dc19998-7b26-45dc-8402-f498c8be8ec3",
+      "source": "external",
+      "externalId": "2ee03276-2f9a-4946-8011-b4fad85d5b7e"
+    },
+    {
+      "title": "DBMS",
+      "deadline": "2025-11-07T15:11",
+      "status": "Pending",
+      "description": "Certification Course",
+      "attachmentUrl": "/uploads/pdf-1762604602522-731161149.pdf",
+      "id": "b37176be-a08c-40be-b1bd-915183e50605",
+      "source": "external",
+      "externalId": "4dce15f1-a0e8-408f-bbc9-284724d05bec"
+    },
+    {
+      "title": "Internet of Things",
+      "deadline": "2025-11-08T18:30",
+      "status": "Pending",
+      "description": "LAb Records",
+      "attachmentUrl": "/uploads/pdf-1762605277963-494959742.pdf",
+      "id": "f4cda7c8-3e56-403b-aa3f-b2bf947f8e95",
+      "source": "external",
+      "externalId": "8793890c-b28e-4be2-bbef-0441b9363f8d"
+    },
+    {
+      "title": "jnaskx,m",
+      "deadline": "1111-11-01T22:22",
+      "status": "Pending",
+      "description": "nlk csm,z",
+      "attachmentUrl": "/uploads/pdf-1762607974238-194225544.pdf",
+      "id": "bdf8e02a-a36c-43d6-891c-85df48d0a91c",
+      "source": "external",
+      "externalId": "90bb6a69-c009-401f-8758-5a5c3a6ab706"
+    }
+  ]
+}

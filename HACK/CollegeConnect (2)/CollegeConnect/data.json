@@ -1,0 +1,5023 @@
+{
+  "updates": [
+    {
+      "id": 6,
+      "title": "Holiday",
+      "type": "Notice",
+      "datetime": "2025-11-07T21:25",
+      "content": "This week Saturday will be holiday"
+    },
+    {
+      "id": 8,
+      "title": "College fees",
+      "type": "Fees",
+      "datetime": "2025-11-07T11:11",
+      "content": "All students clear your dues"
+    },
+    {
+      "title": "New Assignment: DBMS Lab Report Submission",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086328",
+      "type": "assignment",
+      "id": 34
+    },
+    {
+      "title": "New Assignment: Operating Systems Quiz",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086664",
+      "type": "assignment",
+      "id": 35
+    },
+    {
+      "title": "New Assignment: AI Mini Project Proposal",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086675",
+      "type": "assignment",
+      "id": 36
+    },
+    {
+      "title": "New Assignment: IOT Assignment 1",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086681",
+      "type": "assignment",
+      "id": 37
+    },
+    {
+      "title": "New Assignment: IOT assignment 1",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086687",
+      "type": "assignment",
+      "id": 38
+    },
+    {
+      "title": "New Assignment: CV Assignment 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086694",
+      "type": "assignment",
+      "id": 39
+    },
+    {
+      "title": "New Assignment: PC Seminar",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086699",
+      "type": "assignment",
+      "id": 40
+    },
+    {
+      "title": "New Assignment: IOT Assignments",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086705",
+      "type": "assignment",
+      "id": 41
+    },
+    {
+      "title": "New Assignment: Water Assignment",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086712",
+      "type": "assignment",
+      "id": 42
+    },
+    {
+      "title": "New Assignment: Water Assignment 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086718",
+      "type": "assignment",
+      "id": 43
+    },
+    {
+      "title": "New Assignment: Water assignment 3",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086724",
+      "type": "assignment",
+      "id": 44
+    },
+    {
+      "title": "New Assignment: CV 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086730",
+      "type": "assignment",
+      "id": 45
+    },
+    {
+      "title": "New Assignment: CV 3",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086736",
+      "type": "assignment",
+      "id": 46
+    },
+    {
+      "title": "New Assignment: CV 4",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086743",
+      "type": "assignment",
+      "id": 47
+    },
+    {
+      "title": "New Assignment: IOT 2",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086750",
+      "type": "assignment",
+      "id": 48
+    },
+    {
+      "title": "New Assignment: IOT 4",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086757",
+      "type": "assignment",
+      "id": 49
+    },
+    {
+      "title": "New Assignment: IOT 5",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086764",
+      "type": "assignment",
+      "id": 50
+    },
+    {
+      "title": "New Assignment: New Assignment",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086772",
+      "type": "assignment",
+      "id": 51
+    },
+    {
+      "title": "New Assignment: CN",
+      "content": "",
+      "datetime": "2025-11-07T23:04:16.086779",
+      "type": "assignment",
+      "id": 52
+    },
+    {
+      "id": 31,
+      "title": "Alert: Integration Test Alert",
+      "content": "Test from assistant",
+      "datetime": "2025-11-07T18:53:39.563Z",
+      "type": "alert"
+    },
+    {
+      "id": 32,
+      "title": "Integration Test Alert",
+      "content": "Test from assistant",
+      "type": "Integration Test Alert",
+      "datetime": "2025-11-07T18:53:39.563Z"
+    },
+    {
+      "id": 53,
+      "title": "General Alert",
+      "content": "🆕 Exam (General) at 2025-11-12T00:32",
+      "datetime": "2025-11-07T18:59:47.779Z",
+      "type": "alert"
+    },
+    {
+      "id": 55,
+      "title": "General Alert",
+      "content": "Manual test alert from Assignments page",
+      "datetime": "2025-11-07T19:10:52.730Z",
+      "type": "alert"
+    },
+    {
+      "id": 56,
+      "title": "General Alert",
+      "content": "Manual test alert from UI",
+      "datetime": "2025-11-07T19:10:52.736Z",
+      "type": "alert"
+    },
+    {
+      "id": 58,
+      "title": "New Assignment",
+      "content": "📘 New Assignment Added: Test HW for E2E",
+      "datetime": "2025-11-08T05:25:17.380Z",
+      "type": "alert"
+    },
+    {
+      "id": 63,
+      "title": "New Assignment",
+      "content": "📘 New Assignment Added: E2E node test",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "type": "alert"
+    },
+    {
+      "id": 64,
+      "title": "New Assignment",
+      "content": "📘 New Assignment Added: Reminder 60m Test",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "type": "alert"
+    },
+    {
+      "id": 65,
+      "title": "New Assignment",
+      "content": "📝 New Assignment Added: E2E Debug Assignment (due 8/11/2025, 1:38:22 pm)",
+      "datetime": "2025-11-08T06:08:23.039Z",
+      "type": "alert"
+    },
+    {
+      "id": 66,
+      "title": "General Alert",
+      "content": "Test alert from PS at 2025-11-08T12:05:04",
+      "datetime": "2025-11-08T06:35:04.637Z",
+      "type": "alert"
+    },
+    {
+      "id": 67,
+      "title": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "content": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "datetime": "2025-11-08T06:40:40.408Z",
+      "type": "alert"
+    },
+    {
+      "id": 68,
+      "title": "General Alert",
+      "content": "Exam last day",
+      "datetime": "2025-11-08T07:21:03.797Z",
+      "type": "alert"
+    },
+    {
+      "id": 70,
+      "title": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "content": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "datetime": "2025-11-08T09:21:06.724Z",
+      "type": "alert"
+    },
+    {
+      "id": 72,
+      "title": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "content": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "datetime": "2025-11-08T09:29:02.824Z",
+      "type": "alert"
+    },
+    {
+      "id": 73,
+      "title": "General Alert",
+      "content": "Manual test alert from Dashboard",
+      "datetime": "2025-11-08T09:15:06.746Z",
+      "type": "alert"
+    },
+    {
+      "id": 75,
+      "title": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "content": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "datetime": "2025-11-08T09:35:10.513Z",
+      "type": "alert"
+    },
+    {
+      "id": 76,
+      "title": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "content": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "datetime": "2025-11-08T09:38:12.056Z",
+      "type": "alert"
+    },
+    {
+      "id": 77,
+      "title": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "content": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "datetime": "2025-11-08T09:39:08.039Z",
+      "type": "alert"
+    },
+    {
+      "id": 78,
+      "title": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "content": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "datetime": "2025-11-08T09:41:27.623Z",
+      "type": "alert"
+    },
+    {
+      "id": 79,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 80,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 81,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 82,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 83,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 84,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 85,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 86,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 87,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 56,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 57,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 58,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 60,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 63,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 64,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 64,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 65,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 66,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 67,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 68,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 69,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 70,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 71,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 72,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 75,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 76,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 77,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 78,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 79,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 80,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 81,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 82,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 83,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 84,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 85,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 86,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 87,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 90,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 91,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 92,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 82,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 83,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 84,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 85,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 86,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 87,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 88,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 89,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 90,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 91,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 92,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 94,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 95,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 96,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 97,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 98,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 99,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 100,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 101,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 102,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 103,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 104,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 105,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 106,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 107,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 108,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 109,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 110,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 111,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 112,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 113,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 114,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 115,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 116,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 117,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 118,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 119,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 120,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 121,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 122,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 123,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 124,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 125,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 126,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 127,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 128,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 129,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 133,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 134,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 135,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 136,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 137,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 138,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 139,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 140,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 141,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 142,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 143,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 144,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 145,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 146,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 147,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 148,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 149,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 150,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 151,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 152,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 153,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 154,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 155,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 156,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 157,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 158,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 159,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 160,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 161,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 162,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 163,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 164,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 165,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 166,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 167,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 168,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 169,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 170,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 171,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 172,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 173,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 174,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 175,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 176,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 177,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 178,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 179,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 182,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 183,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 184,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 185,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 186,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 187,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 188,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 189,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 190,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 191,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 192,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 193,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 194,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 195,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 196,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 197,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 198,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 199,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 200,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 201,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 202,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 203,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 204,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 205,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 206,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 207,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 208,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 209,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 210,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 211,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 212,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 213,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 214,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 215,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 216,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 217,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 218,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 219,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 220,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 221,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 222,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 223,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 224,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 225,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 226,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 227,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 228,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 231,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 232,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 233,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 234,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 235,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 236,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 237,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 238,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 239,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 240,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 241,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 242,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 243,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 244,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 245,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 246,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 247,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 248,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 249,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 250,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 251,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 252,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 253,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 254,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 255,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 256,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 257,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 258,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 259,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 260,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 261,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 262,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 263,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 264,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 265,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 266,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 267,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 268,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 269,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 270,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 271,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 272,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 273,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 274,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 275,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 276,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 277,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "title": "Record submission",
+      "content": "submit ur record",
+      "type": "General",
+      "datetime": "2025-01-12T22:22",
+      "id": 279
+    },
+    {
+      "id": 279,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 280,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 281,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 282,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 283,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 284,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 285,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 286,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 287,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 288,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 289,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 290,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 291,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 292,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 293,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 294,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 295,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 296,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 297,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 298,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 299,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 300,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 301,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 302,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 303,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 304,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 305,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 306,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 307,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 308,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 309,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 310,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 311,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 312,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 313,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 314,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 315,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 316,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 317,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 318,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 319,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 320,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 321,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 322,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 323,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 324,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 325,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 326,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "title": "BDA",
+      "content": "submit assignment",
+      "type": "Assignment",
+      "datetime": "2025-01-08T23:24",
+      "id": 327
+    },
+    {
+      "id": 320,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 321,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 322,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 323,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 324,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 325,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 326,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 327,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 328,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 329,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 330,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 331,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 332,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 333,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 334,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 335,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 336,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 337,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 338,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 339,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 340,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 341,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 342,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 343,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 344,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 345,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 346,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 347,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 348,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 349,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 350,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 351,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 352,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 353,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 354,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 355,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 356,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 357,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 358,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 359,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 360,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 361,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 362,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 363,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 364,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 365,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 366,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 367,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 368,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 371,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 372,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 373,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 374,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 375,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 376,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 377,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 378,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 379,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 380,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:10:51.119Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 381,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.352Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 382,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 383,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.353Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 384,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.354Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 385,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.358Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 386,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.359Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 387,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.360Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 388,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 389,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 390,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 391,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 392,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 393,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 394,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.361Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 395,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 396,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.362Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 397,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.457Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 398,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 399,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 400,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 401,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 402,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 403,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 404,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 405,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 406,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 407,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 408,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 409,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 410,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 411,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 412,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 413,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 414,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 415,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 416,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 417,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 418,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 419,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 421,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 422,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 423,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 424,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 425,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 426,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 427,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 428,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 429,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 430,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 431,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 432,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 433,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 434,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 435,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 436,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 437,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 438,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 439,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 440,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 441,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 442,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 443,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 444,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 445,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 446,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 447,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 448,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 449,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 450,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 451,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 452,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 451,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 452,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 454,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 455,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 456,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 457,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 458,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 459,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 460,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 461,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 462,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 463,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 464,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 465,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 466,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 467,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 468,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 469,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 470,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 471,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 472,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 473,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 474,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 475,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 476,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 477,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 478,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 479,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 480,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 481,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 482,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 483,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 486,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 487,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 488,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 489,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 490,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 491,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 492,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 493,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 494,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 495,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 496,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 497,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 498,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 499,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 500,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 501,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 502,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 503,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 504,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 505,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 506,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 507,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 508,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 509,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 510,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 511,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 512,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 513,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 514,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "id": 516,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 517,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 518,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 519,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 520,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 521,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 522,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 523,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 524,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 525,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 526,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 527,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 528,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 529,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 530,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 531,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 532,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 533,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 534,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 535,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 536,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 537,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 538,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 539,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 540,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 541,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 542,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 543,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 544,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 545,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 546,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 547,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "title": "DSA",
+      "content": "DSA Quizzes",
+      "type": "General",
+      "datetime": "2025-12-12T12:12",
+      "id": 548
+    },
+    {
+      "id": 543,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 544,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 545,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 546,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 547,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 548,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 549,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 550,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 551,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 552,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 553,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 554,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 555,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 556,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 557,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 558,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 559,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 560,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 561,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 562,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 563,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 564,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 565,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 566,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 567,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 568,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 569,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 570,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 571,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 572,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 573,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 574,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "title": "TOC",
+      "content": "everyone submit your records ASAP",
+      "type": "Assignment",
+      "datetime": "2025-11-20T11:00",
+      "id": 575
+    },
+    {
+      "title": "Internet of things",
+      "content": "everyone submit the records ASAP",
+      "type": "Assignment",
+      "datetime": "2025-11-20T11:00",
+      "id": 576
+    },
+    {
+      "id": 577,
+      "title": "HOLIDAY ",
+      "type": "manual",
+      "datetime": "2025-11-08T18:19:23.178Z",
+      "content": "Tomorrow is holiday on account of kanakadasa jayanthi "
+    },
+    {
+      "id": 578,
+      "title": "holiday",
+      "type": "manual",
+      "datetime": "2025-11-08T18:17:33.168Z",
+      "content": "tomorrow is holiday on account of kanakadasa jayanthi"
+    },
+    {
+      "id": 579,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 580,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 581,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 582,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 583,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 584,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 585,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 586,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 587,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 588,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 589,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 590,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 591,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 592,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 593,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 594,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 595,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 596,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 597,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 598,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 599,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 600,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 601,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 602,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 603,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 604,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 605,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 606,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 607,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 608,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 609,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 610,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "title": "FEE DUE",
+      "content": "submit",
+      "type": "Fees",
+      "datetime": "2025-11-23T11:00",
+      "id": 611
+    },
+    {
+      "id": 612,
+      "title": "HOLIDAY ",
+      "type": "manual",
+      "datetime": "2025-11-08T18:19:23.178Z",
+      "content": "Tomorrow is holiday on account of kanakadasa jayanthi "
+    },
+    {
+      "id": 613,
+      "title": "holiday",
+      "type": "manual",
+      "datetime": "2025-11-08T18:17:33.168Z",
+      "content": "tomorrow is holiday on account of kanakadasa jayanthi"
+    },
+    {
+      "id": 614,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 615,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 616,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 617,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 618,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 619,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 620,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 621,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 622,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 623,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 624,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 625,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 626,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 627,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 628,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 629,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 630,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 631,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 632,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 633,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 634,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 635,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 636,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 637,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 638,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 639,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 640,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 641,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 642,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 643,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 644,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 645,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "title": "hall ticket",
+      "content": "everyone come to exam section near A block and collect your exam hall ticket",
+      "type": "HallTicket",
+      "datetime": "2025-11-20T11:00",
+      "id": 646
+    },
+    {
+      "id": 647,
+      "title": "hall ticket receive",
+      "type": "manual",
+      "datetime": "2025-11-08T18:39:22.922Z",
+      "content": "come to exam section and receive ur hall ticket\n"
+    },
+    {
+      "id": 648,
+      "title": "HOLIDAY ",
+      "type": "manual",
+      "datetime": "2025-11-08T18:19:23.178Z",
+      "content": "Tomorrow is holiday on account of kanakadasa jayanthi "
+    },
+    {
+      "id": 649,
+      "title": "holiday",
+      "type": "manual",
+      "datetime": "2025-11-08T18:17:33.168Z",
+      "content": "tomorrow is holiday on account of kanakadasa jayanthi"
+    },
+    {
+      "id": 650,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 651,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 652,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 653,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 654,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 655,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 656,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 657,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 658,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 659,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 660,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 661,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 662,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 663,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 664,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 665,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 666,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 667,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 668,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 669,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 670,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 671,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 672,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 673,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 674,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 675,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 676,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 677,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 678,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 679,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 680,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 681,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    },
+    {
+      "title": "hall ticket",
+      "content": "everyone come to exam section near A bloack and collect your respective hall tickets",
+      "type": "HallTicket",
+      "datetime": "2025-11-20T11:00",
+      "id": 682
+    },
+    {
+      "id": 683,
+      "title": "hall ticket receive",
+      "type": "manual",
+      "datetime": "2025-11-08T18:39:22.922Z",
+      "content": "come to exam section and receive ur hall ticket\n"
+    },
+    {
+      "id": 684,
+      "title": "HOLIDAY ",
+      "type": "manual",
+      "datetime": "2025-11-08T18:19:23.178Z",
+      "content": "Tomorrow is holiday on account of kanakadasa jayanthi "
+    },
+    {
+      "id": 685,
+      "title": "holiday",
+      "type": "manual",
+      "datetime": "2025-11-08T18:17:33.168Z",
+      "content": "tomorrow is holiday on account of kanakadasa jayanthi"
+    },
+    {
+      "id": 686,
+      "title": "Reminder (60m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.761Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 687,
+      "title": "Reminder (1440m): Internet of Things",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:41.759Z",
+      "content": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z"
+    },
+    {
+      "id": 688,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:34:38.117Z",
+      "content": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm."
+    },
+    {
+      "id": 689,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:23:23.314Z",
+      "content": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm."
+    },
+    {
+      "id": 690,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.690Z",
+      "content": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm."
+    },
+    {
+      "id": 691,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 692,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 693,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 694,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.603Z",
+      "content": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 695,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm."
+    },
+    {
+      "id": 696,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm."
+    },
+    {
+      "id": 697,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm."
+    },
+    {
+      "id": 698,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 699,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm."
+    },
+    {
+      "id": 700,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 701,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.602Z",
+      "content": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm."
+    },
+    {
+      "id": 702,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am."
+    },
+    {
+      "id": 703,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm."
+    },
+    {
+      "id": 704,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm."
+    },
+    {
+      "id": 705,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.601Z",
+      "content": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm."
+    },
+    {
+      "id": 706,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.599Z",
+      "content": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am."
+    },
+    {
+      "id": 707,
+      "title": "New External Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T12:16:06.513Z",
+      "content": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm."
+    },
+    {
+      "id": 708,
+      "title": "Isro Visit",
+      "type": "General",
+      "datetime": "2025-11-08T11:46:37.320Z",
+      "content": "Monday we are visiting ISRO ."
+    },
+    {
+      "id": 709,
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T07:09:02.320Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 710,
+      "title": "Testing ",
+      "type": "General",
+      "datetime": "2025-11-08T06:27:02.747Z",
+      "content": "Some random testing "
+    },
+    {
+      "id": 711,
+      "title": "UI Test Announcement",
+      "type": "General",
+      "datetime": "2025-11-08T06:20:12.250Z",
+      "content": "This announcement created via API to test UI form"
+    },
+    {
+      "id": 712,
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "type": "General",
+      "datetime": "2025-11-08T06:08:49.116Z",
+      "content": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z"
+    },
+    {
+      "id": 713,
+      "title": "Assignment Due: E2E Debug Assignment",
+      "type": "assignment",
+      "datetime": "2025-11-08T06:08:23.038Z",
+      "content": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements"
+    },
+    {
+      "id": 714,
+      "title": "Reminder (60m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.890Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 715,
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:42:16.889Z",
+      "content": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z"
+    },
+    {
+      "id": 716,
+      "title": "Assignment Due: Reminder 60m Test",
+      "type": "General",
+      "datetime": "2025-11-08T05:41:39.872Z",
+      "content": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon"
+    },
+    {
+      "id": 717,
+      "title": "Assignment Due: E2E node test",
+      "type": "General",
+      "datetime": "2025-11-08T05:39:45.544Z",
+      "content": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script"
+    }
+  ]
+}

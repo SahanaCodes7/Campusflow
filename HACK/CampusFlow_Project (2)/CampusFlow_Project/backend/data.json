@@ -1,0 +1,2108 @@
+{
+  "assignments": [
+    {
+      "title": "DBMS Lab Report Submission",
+      "deadline": "2025-11-05T18:00:00",
+      "status": "Pending"
+    },
+    {
+      "title": "Operating Systems Quiz",
+      "deadline": "2025-11-06T09:00:00",
+      "status": "Pending"
+    },
+    {
+      "title": "AI Mini Project Proposal",
+      "deadline": "2025-11-07T17:00:00",
+      "status": "Completed"
+    },
+    {
+      "title": "IOT Assignment 1",
+      "deadline": "2025-11-04T02:00",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT assignment 1",
+      "deadline": "2025-11-04T02:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV Assignment 2",
+      "deadline": "2025-11-04T14:30",
+      "status": "Pending"
+    },
+    {
+      "title": "PC Seminar",
+      "deadline": "2025-11-04T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT Assignments",
+      "deadline": "2025-11-04T16:30",
+      "status": "Pending"
+    },
+    {
+      "title": "Water Assignment",
+      "deadline": "2025-11-16T16:20",
+      "status": "Pending"
+    },
+    {
+      "title": "Water Assignment 2",
+      "deadline": "2025-11-05T12:30",
+      "status": "Pending"
+    },
+    {
+      "title": "Water assignment 3",
+      "deadline": "2025-11-12T13:20",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 2",
+      "deadline": "2025-11-25T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 3",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "CV 4",
+      "deadline": "2025-11-05T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 2",
+      "deadline": "2025-11-15T16:25",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 4",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "IOT 5",
+      "deadline": "2025-11-15T13:20",
+      "status": "Pending"
+    },
+    {
+      "title": "New Assignment",
+      "deadline": "2025-11-15T15:20",
+      "status": "Pending"
+    },
+    {
+      "title": "CN",
+      "deadline": "2025-11-10T13:30",
+      "status": "Pending"
+    },
+    {
+      "title": "Test HW for E2E",
+      "description": "Short practice",
+      "dueDate": "2025-11-20",
+      "status": "Pending",
+      "createdAt": "2025-11-08T05:25:17.380Z"
+    },
+    {
+      "title": "E2E node test",
+      "description": "created by node e2e script",
+      "dueDate": "2025-11-30T12:00:00",
+      "status": "Pending",
+      "createdAt": "2025-11-08T05:39:45.543Z"
+    },
+    {
+      "title": "Reminder 60m Test",
+      "description": "Due soon",
+      "dueDate": "2025-11-08T12:01:39",
+      "status": "Pending",
+      "createdAt": "2025-11-08T05:41:39.872Z",
+      "_reminderSent_1440": true,
+      "_reminderSent_60": true
+    },
+    {
+      "title": "E2E Debug Assignment",
+      "description": "Created to verify announcements",
+      "deadline": "2025-11-08T13:38:22",
+      "status": "Pending",
+      "createdAt": "2025-11-08T06:08:22.858Z",
+      "_reminderSent_1440": true,
+      "_reminderSent_60": true
+    },
+    {
+      "title": "ML",
+      "deadline": "2025-02-08T17:45",
+      "status": "Pending",
+      "description": "Assignment 2",
+      "attachmentUrl": "/uploads/ext-1762603850980-eez7e7.pdf",
+      "id": "0dc19998-7b26-45dc-8402-f498c8be8ec3",
+      "source": "external",
+      "externalId": "2ee03276-2f9a-4946-8011-b4fad85d5b7e"
+    },
+    {
+      "title": "IOT Assignment 1",
+      "deadline": "2025-11-04T02:00",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "57afa138-fad8-480a-8f57-5b7a42ba7a7c"
+    },
+    {
+      "title": "IOT assignment 1",
+      "deadline": "2025-11-04T02:30",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "860a2f9b-c9ab-45d8-b523-23edbd1e130c",
+      "submission": {
+        "url": "/uploads/submission-1762627533117-owwqjk.pdf",
+        "filename": "submission-1762627533117-owwqjk.pdf",
+        "size": 600393,
+        "submittedAt": "2025-11-08T18:45:33.123Z"
+      }
+    },
+    {
+      "title": "CV Assignment 2",
+      "deadline": "2025-11-04T14:30",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "3b79f693-9ea0-482c-8d31-ada77d54d6ce",
+      "submission": {
+        "url": "/uploads/submission-1762627400075-wj1c1p.pdf",
+        "filename": "submission-1762627400075-wj1c1p.pdf",
+        "size": 49703,
+        "submittedAt": "2025-11-08T18:43:20.077Z"
+      }
+    },
+    {
+      "title": "PC Seminar",
+      "deadline": "2025-11-04T15:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "572117ab-acce-4722-9d54-fcd818303033"
+    },
+    {
+      "title": "IOT Assignments",
+      "deadline": "2025-11-04T16:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "beb99a0d-50ad-45f7-b313-387218447f47"
+    },
+    {
+      "title": "Water Assignment",
+      "deadline": "2025-11-16T16:20",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "e74eba6c-828a-40a2-ab18-65086b8690ed",
+      "submission": {
+        "url": "/uploads/submission-1762626981748-tem5ch.pdf",
+        "filename": "submission-1762626981748-tem5ch.pdf",
+        "size": 156612,
+        "submittedAt": "2025-11-08T18:36:21.750Z"
+      }
+    },
+    {
+      "title": "Water Assignment 2",
+      "deadline": "2025-11-05T12:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "35d5841d-7e69-4c77-a4a4-d52ef11ec022"
+    },
+    {
+      "title": "Water assignment 3",
+      "deadline": "2025-11-12T13:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "807667de-7a9c-4163-b216-220cc3259511"
+    },
+    {
+      "title": "CV 2",
+      "deadline": "2025-11-25T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "767e5a18-3465-41f8-9cb9-bc95bf7ed298"
+    },
+    {
+      "title": "CV 3",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "d50a7228-2b71-419d-8073-4e9d732aa294"
+    },
+    {
+      "title": "CV 4",
+      "deadline": "2025-11-05T15:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "1911a133-73d5-4686-b74d-a28f876d2493"
+    },
+    {
+      "title": "IOT 2",
+      "deadline": "2025-11-15T16:25",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "c433b621-ca9d-4703-8467-ca21784332e7"
+    },
+    {
+      "title": "IOT 4",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "41b91886-56f5-424f-bc27-a24f66af376b"
+    },
+    {
+      "title": "IOT 5",
+      "deadline": "2025-11-15T13:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "36f22927-81e9-48ba-8956-81a874dc4a1d"
+    },
+    {
+      "title": "New Assignment",
+      "deadline": "2025-11-15T15:20",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "1f7bc622-9850-4871-b160-e9c712e0f710",
+      "submission": {
+        "url": "/uploads/submission-1762626728992-qobvcx.pdf",
+        "filename": "submission-1762626728992-qobvcx.pdf",
+        "size": 156612,
+        "submittedAt": "2025-11-08T18:32:08.995Z"
+      }
+    },
+    {
+      "title": "CN",
+      "deadline": "2025-11-10T13:30",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "6958790b-9bbb-4986-b808-5e20abb6a068",
+      "submission": {
+        "url": "/uploads/submission-1762625789677-gt0jon.pdf",
+        "filename": "submission-1762625789677-gt0jon.pdf",
+        "size": 600393,
+        "submittedAt": "2025-11-08T18:16:29.682Z"
+      }
+    },
+    {
+      "title": "E2E Test Assignment from Assistant",
+      "deadline": "2025-12-01T12:00",
+      "status": "Pending",
+      "description": "E2E test desc",
+      "attachmentUrl": "/uploads/ext-1762604166447-xfck3f.pdf",
+      "source": "external",
+      "externalId": "20391214-a1a5-4eb2-a0fb-d24e22994352"
+    },
+    {
+      "title": "ML",
+      "deadline": "2025-02-08T17:45",
+      "status": "Pending",
+      "description": "Assignment 2",
+      "attachmentUrl": "/uploads/ext-1762604166497-ull9ov.pdf",
+      "id": "0dc19998-7b26-45dc-8402-f498c8be8ec3",
+      "source": "external",
+      "externalId": "0dc19998-7b26-45dc-8402-f498c8be8ec3"
+    },
+    {
+      "title": "IOT Assignment 1",
+      "deadline": "2025-11-04T02:00",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "c757e1fd-a42b-4342-bc26-064aeaca9875"
+    },
+    {
+      "title": "IOT assignment 1",
+      "deadline": "2025-11-04T02:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "51f986ba-e9ac-4d0f-aa15-10a3aca65fd6"
+    },
+    {
+      "title": "CV Assignment 2",
+      "deadline": "2025-11-04T14:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "a0543230-6549-476d-aad5-6dff2d686680"
+    },
+    {
+      "title": "PC Seminar",
+      "deadline": "2025-11-04T15:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "39620dba-cc07-4653-9b8d-1a3580d26193"
+    },
+    {
+      "title": "IOT Assignments",
+      "deadline": "2025-11-04T16:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "fd63c5fb-a391-453d-b5cb-3131ba019988"
+    },
+    {
+      "title": "Water Assignment",
+      "deadline": "2025-11-16T16:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "5bde9745-7e2b-496b-a188-1c30469c0fe8"
+    },
+    {
+      "title": "Water Assignment 2",
+      "deadline": "2025-11-05T12:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "da50ad4c-7fe2-444e-a17d-fecedecf9a05"
+    },
+    {
+      "title": "Water assignment 3",
+      "deadline": "2025-11-12T13:20",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "7bb98b70-eaca-48a3-acb3-e9715e23c057",
+      "submission": {
+        "url": "/uploads/submission-1762610480076-4bd9il.pdf",
+        "filename": "submission-1762610480076-4bd9il.pdf",
+        "size": 220484,
+        "submittedAt": "2025-11-08T14:01:20.090Z"
+      }
+    },
+    {
+      "title": "CV 2",
+      "deadline": "2025-11-25T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "95ad585c-4071-4152-9ca2-c6fcc2f73420"
+    },
+    {
+      "title": "CV 3",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "da6ab72c-12d8-4367-a35e-4b37ddfdba80"
+    },
+    {
+      "title": "CV 4",
+      "deadline": "2025-11-05T15:20",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "2542c498-5dbe-4a1a-a214-bdd33eaae5db"
+    },
+    {
+      "title": "IOT 2",
+      "deadline": "2025-11-15T16:25",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "2119d134-083c-4437-a10f-11cd1906e574"
+    },
+    {
+      "title": "IOT 4",
+      "deadline": "2025-11-05T13:30",
+      "status": "Pending",
+      "source": "external",
+      "externalId": "c3559dfd-216b-41e9-ad3b-383d976c3b92"
+    },
+    {
+      "title": "IOT 5",
+      "deadline": "2025-11-15T13:20",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "9d7ef690-8eec-456f-92a5-2ec9ba8b0095",
+      "submission": {
+        "url": "/uploads/submission-1762625914785-v3usg2.pdf",
+        "filename": "submission-1762625914785-v3usg2.pdf",
+        "size": 600393,
+        "submittedAt": "2025-11-08T18:18:34.790Z"
+      }
+    },
+    {
+      "title": "New Assignment",
+      "deadline": "2025-11-15T15:20",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "9ecf00c4-ec5e-4bfd-af78-8f984acb0c8e",
+      "submission": {
+        "url": "/uploads/submission-1762609531377-n5lb44.pdf",
+        "filename": "submission-1762609531377-n5lb44.pdf",
+        "size": 814236,
+        "submittedAt": "2025-11-08T13:45:31.421Z"
+      }
+    },
+    {
+      "title": "CN",
+      "deadline": "2025-11-10T13:30",
+      "status": "Completed",
+      "source": "external",
+      "externalId": "4aa953dc-6d54-4c40-b781-39b830b706f4",
+      "submission": {
+        "url": "/uploads/submission-1762625717434-7nvuj9.pdf",
+        "filename": "submission-1762625717434-7nvuj9.pdf",
+        "size": 147714,
+        "submittedAt": "2025-11-08T18:15:17.440Z"
+      }
+    },
+    {
+      "title": "E2E Test Assignment from Assistant",
+      "deadline": "2025-12-01T12:00",
+      "status": "Completed",
+      "description": "E2E test desc",
+      "attachmentUrl": "/uploads/ext-1762604166681-rm0frh.pdf",
+      "source": "external",
+      "externalId": "cf1e26b6-5d4c-4fb0-a5fc-39689e099076",
+      "submission": {
+        "url": "/uploads/submission-1762609494927-pr7gak.pdf",
+        "filename": "submission-1762609494927-pr7gak.pdf",
+        "size": 220484,
+        "submittedAt": "2025-11-08T13:44:54.944Z"
+      }
+    },
+    {
+      "title": "DBMS",
+      "deadline": "2025-11-07T15:11",
+      "status": "Completed",
+      "description": "Certification Course",
+      "attachmentUrl": "/uploads/ext-1762604603279-8hsmey.pdf",
+      "id": "b37176be-a08c-40be-b1bd-915183e50605",
+      "source": "external",
+      "externalId": "4dce15f1-a0e8-408f-bbc9-284724d05bec",
+      "submission": {
+        "url": "/uploads/submission-1762609462208-7lqp4z.pdf",
+        "filename": "submission-1762609462208-7lqp4z.pdf",
+        "size": 12179505,
+        "submittedAt": "2025-11-08T13:44:23.056Z"
+      }
+    },
+    {
+      "title": "Internet of Things",
+      "deadline": "2025-11-08T18:30",
+      "status": "Completed",
+      "description": "LAb Records",
+      "attachmentUrl": "/uploads/ext-1762605278095-1j40qx.pdf",
+      "id": "f4cda7c8-3e56-403b-aa3f-b2bf947f8e95",
+      "source": "external",
+      "externalId": "8793890c-b28e-4be2-bbef-0441b9363f8d",
+      "_reminderSent_1440": true,
+      "_reminderSent_60": true,
+      "submission": {
+        "url": "/uploads/submission-1762609360240-cjdd65.pdf",
+        "filename": "submission-1762609360240-cjdd65.pdf",
+        "size": 220484,
+        "submittedAt": "2025-11-08T13:42:40.264Z"
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "title": "Integration Test Alert",
+      "message": "Test from assistant",
+      "timestamp": "2025-11-07T18:53:39.563Z"
+    },
+    {
+      "title": "General Alert",
+      "message": "🆕 Exam (General) at 2025-11-12T00:32",
+      "timestamp": "2025-11-07T18:59:47.779Z"
+    },
+    {
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: Test HW for E2E",
+      "timestamp": "2025-11-08T05:25:17.380Z"
+    },
+    {
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: E2E node test",
+      "timestamp": "2025-11-08T05:39:45.544Z"
+    },
+    {
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: Reminder 60m Test",
+      "timestamp": "2025-11-08T05:41:39.872Z"
+    },
+    {
+      "title": "New Assignment",
+      "message": "📝 New Assignment Added: E2E Debug Assignment (due 8/11/2025, 1:38:22 pm)",
+      "timestamp": "2025-11-08T06:08:23.039Z",
+      "type": "assignment"
+    },
+    {
+      "title": "General Alert",
+      "message": "Manual test alert from Assignments page",
+      "timestamp": "2025-11-08T06:19:59.113Z"
+    },
+    {
+      "title": "General Alert",
+      "message": "Manual test alert from UI",
+      "timestamp": "2025-11-08T06:19:59.121Z"
+    },
+    {
+      "title": "General Alert",
+      "message": "Test alert from PS at 2025-11-08T12:05:04",
+      "timestamp": "2025-11-08T06:35:04.637Z"
+    },
+    {
+      "title": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "message": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "timestamp": "2025-11-08T06:40:40.408Z"
+    },
+    {
+      "title": "General Alert",
+      "message": "Exam last day",
+      "timestamp": "2025-11-08T07:21:03.797Z"
+    },
+    {
+      "title": "General Alert",
+      "message": "Manual test alert from Dashboard",
+      "timestamp": "2025-11-08T09:15:06.746Z"
+    },
+    {
+      "title": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "message": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:06.724Z"
+    },
+    {
+      "title": "🆕 jlkdamnxz (Fees) at 2025-12-12T12:12",
+      "message": "🆕 jlkdamnxz (Fees) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:37.880Z"
+    },
+    {
+      "title": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "message": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "timestamp": "2025-11-08T09:29:02.824Z"
+    },
+    {
+      "title": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "message": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "timestamp": "2025-11-08T09:35:10.513Z"
+    },
+    {
+      "title": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "message": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "timestamp": "2025-11-08T09:38:12.056Z"
+    },
+    {
+      "title": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "message": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "timestamp": "2025-11-08T09:39:08.039Z"
+    },
+    {
+      "title": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "message": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "timestamp": "2025-11-08T09:41:27.623Z"
+    },
+    {
+      "title": "🆕 Update (General) at 2025-11-08T15:15",
+      "message": "🆕 Update (General) at 2025-11-08T15:15",
+      "timestamp": "2025-11-08T09:44:17.790Z"
+    },
+    {
+      "title": "🆕 IA 3 (Assignment) at 2025-02-08T02:22",
+      "message": "🆕 IA 3 (Assignment) at 2025-02-08T02:22",
+      "timestamp": "2025-11-08T09:47:51.155Z"
+    },
+    {
+      "id": "cc-31",
+      "title": "alert",
+      "message": "Alert: Integration Test Alert: Test from assistant",
+      "timestamp": "2025-11-07T18:53:39.563Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-32",
+      "title": "Integration Test Alert",
+      "message": "Integration Test Alert: Test from assistant",
+      "timestamp": "2025-11-07T18:53:39.563Z",
+      "type": "integration test alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-53",
+      "title": "alert",
+      "message": "General Alert: 🆕 Exam (General) at 2025-11-12T00:32",
+      "timestamp": "2025-11-07T18:59:47.779Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-55",
+      "title": "alert",
+      "message": "General Alert: Manual test alert from Assignments page",
+      "timestamp": "2025-11-07T19:10:52.730Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-56",
+      "title": "alert",
+      "message": "General Alert: Manual test alert from UI",
+      "timestamp": "2025-11-07T19:10:52.736Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-58",
+      "title": "alert",
+      "message": "New Assignment: 📘 New Assignment Added: Test HW for E2E",
+      "timestamp": "2025-11-08T05:25:17.380Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-59",
+      "title": "assignment",
+      "message": "New Assignment: Test HW for E2E: Short practice",
+      "timestamp": "2025-11-20T00:00:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-60",
+      "title": "assignment",
+      "message": "New Assignment: E2E node test: created by node e2e script",
+      "timestamp": "2025-11-30T06:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-61",
+      "title": "assignment",
+      "message": "New Assignment: Reminder 60m Test: Due soon",
+      "timestamp": "2025-11-08T06:31:39.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-62",
+      "title": "assignment",
+      "message": "New Assignment: E2E Debug Assignment: Created to verify announcements",
+      "timestamp": "2025-11-08T09:29:02.838Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-63",
+      "title": "alert",
+      "message": "New Assignment: 📘 New Assignment Added: E2E node test",
+      "timestamp": "2025-11-08T05:39:45.544Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-64",
+      "title": "alert",
+      "message": "New Assignment: 📘 New Assignment Added: Reminder 60m Test",
+      "timestamp": "2025-11-08T05:41:39.872Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-65",
+      "title": "alert",
+      "message": "New Assignment: 📝 New Assignment Added: E2E Debug Assignment (due 8/11/2025, 1:38:22 pm)",
+      "timestamp": "2025-11-08T06:08:23.039Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-66",
+      "title": "alert",
+      "message": "General Alert: Test alert from PS at 2025-11-08T12:05:04",
+      "timestamp": "2025-11-08T06:35:04.637Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-67",
+      "title": "alert",
+      "message": "🆕 Quiz (Alert) at 2025-11-08T12:15: 🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "timestamp": "2025-11-08T06:40:40.408Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-68",
+      "title": "alert",
+      "message": "General Alert: Exam last day",
+      "timestamp": "2025-11-08T07:21:03.797Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-70",
+      "title": "alert",
+      "message": "🆕 Final Testing (Alert) at 2025-12-12T12:12: 🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:06.724Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-72",
+      "title": "alert",
+      "message": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59: 🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "timestamp": "2025-11-08T09:29:02.824Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-73",
+      "title": "alert",
+      "message": "General Alert: Manual test alert from Dashboard",
+      "timestamp": "2025-11-08T09:15:06.746Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-74",
+      "title": "alert",
+      "message": "🆕 jlkdamnxz (Fees) at 2025-12-12T12:12: 🆕 jlkdamnxz (Fees) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:37.880Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-75",
+      "title": "alert",
+      "message": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06: 🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "timestamp": "2025-11-08T09:35:10.513Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-76",
+      "title": "alert",
+      "message": "🆕 Hall ticket (Notice) at 2025-11-08T15:10: 🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "timestamp": "2025-11-08T09:38:12.056Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-77",
+      "title": "alert",
+      "message": "🆕 hallticket (Fees) at 2025-11-08T15:11: 🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "timestamp": "2025-11-08T09:39:08.039Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-78",
+      "title": "alert",
+      "message": "🆕 Test (Fees) at 2025-11-30T15:15: 🆕 Test (Fees) at 2025-11-30T15:15",
+      "timestamp": "2025-11-08T09:41:27.623Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 E2E node test (Assignment) at 2025-11-08T15:22",
+      "message": "🆕 E2E node test (Assignment) at 2025-11-08T15:22",
+      "timestamp": "2025-11-08T09:51:14.365Z"
+    },
+    {
+      "id": "cc-79",
+      "title": "General",
+      "message": "Assignment Due: E2E node test: Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script",
+      "timestamp": "2025-11-08T05:39:45.544Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-80",
+      "title": "General",
+      "message": "Assignment Due: Reminder 60m Test: Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon",
+      "timestamp": "2025-11-08T05:41:39.872Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-81",
+      "title": "General",
+      "message": "Reminder (1440m): Reminder 60m Test: Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z",
+      "timestamp": "2025-11-08T05:42:16.889Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-82",
+      "title": "General",
+      "message": "Reminder (60m): Reminder 60m Test: Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z",
+      "timestamp": "2025-11-08T05:42:16.890Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-83",
+      "title": "assignment",
+      "message": "Assignment Due: E2E Debug Assignment: Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements",
+      "timestamp": "2025-11-08T06:08:23.038Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-84",
+      "title": "General",
+      "message": "Reminder (1440m): E2E Debug Assignment: Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z",
+      "timestamp": "2025-11-08T06:08:49.116Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-85",
+      "title": "General",
+      "message": "UI Test Announcement: This announcement created via API to test UI form",
+      "timestamp": "2025-11-08T06:20:12.250Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-86",
+      "title": "General",
+      "message": "Testing : Some random testing ",
+      "timestamp": "2025-11-08T06:27:02.747Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-87",
+      "title": "General",
+      "message": "Reminder (60m): E2E Debug Assignment: Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z",
+      "timestamp": "2025-11-08T07:09:02.320Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 IA12 (Fees) at 2025-11-08T15:35",
+      "message": "🆕 IA12 (Fees) at 2025-11-08T15:35",
+      "timestamp": "2025-11-08T10:03:07.817Z"
+    },
+    {
+      "title": "🆕 IA12 (Fees) at 2025-01-08T12:11",
+      "message": "🆕 IA12 (Fees) at 2025-01-08T12:11",
+      "timestamp": "2025-11-08T10:06:08.946Z"
+    },
+    {
+      "title": "🆕 IA 3 (HallTicket) at 2025-11-08T15:42",
+      "message": "🆕 IA 3 (HallTicket) at 2025-11-08T15:42",
+      "timestamp": "2025-11-08T10:10:17.278Z"
+    },
+    {
+      "id": "cc-88",
+      "title": "HallTicket",
+      "message": "IA 3: Exams due",
+      "timestamp": "2025-11-08T10:12:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 LAB IA (HallTicket) at 2025-11-08T15:50",
+      "message": "🆕 LAB IA (HallTicket) at 2025-11-08T15:50",
+      "timestamp": "2025-11-08T10:18:29.643Z"
+    },
+    {
+      "title": "🆕 LAb IA 2 (HallTicket) at 2025-11-08T17:15",
+      "message": "🆕 LAb IA 2 (HallTicket) at 2025-11-08T17:15",
+      "timestamp": "2025-11-08T11:44:48.277Z"
+    },
+    {
+      "id": "cc-89",
+      "title": "HallTicket",
+      "message": "LAb IA 2: we are issuing the Hall tickets",
+      "timestamp": "2025-11-08T11:45:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "47d10d02-5151-4c6a-8f34-1309a360a47f",
+      "type": "info",
+      "message": "📢 New external assignment: ML",
+      "timestamp": "2025-11-08T12:10:50.982Z"
+    },
+    {
+      "id": "31a8a2d9-25d0-43bb-b09c-efa3065cd413",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT Assignment 1",
+      "timestamp": "2025-11-08T12:16:06.276Z"
+    },
+    {
+      "id": "f7115150-a697-4199-bfae-254acc5ef655",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT assignment 1",
+      "timestamp": "2025-11-08T12:16:06.353Z"
+    },
+    {
+      "id": "1f6fa4db-39c0-4ae3-91e7-330ba27f0b5a",
+      "type": "info",
+      "message": "📢 New assignment synced: CV Assignment 2",
+      "timestamp": "2025-11-08T12:16:06.353Z"
+    },
+    {
+      "id": "451e083a-8288-4b9d-8ac0-185da5275861",
+      "type": "info",
+      "message": "📢 New assignment synced: PC Seminar",
+      "timestamp": "2025-11-08T12:16:06.354Z"
+    },
+    {
+      "id": "8d8e106e-5fbf-4a2e-81f4-15e1f9ba310a",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT Assignments",
+      "timestamp": "2025-11-08T12:16:06.358Z"
+    },
+    {
+      "id": "914f2187-819d-42cd-8219-0e80eab7d440",
+      "type": "info",
+      "message": "📢 New assignment synced: Water Assignment",
+      "timestamp": "2025-11-08T12:16:06.359Z"
+    },
+    {
+      "id": "5549979a-9dd1-44c6-964c-1a20b01668e8",
+      "type": "info",
+      "message": "📢 New assignment synced: Water Assignment 2",
+      "timestamp": "2025-11-08T12:16:06.359Z"
+    },
+    {
+      "id": "2c056f0b-2864-4c2f-adc1-ae02dbd0bb76",
+      "type": "info",
+      "message": "📢 New assignment synced: Water assignment 3",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "ffff30c8-a43c-4077-9e53-6dd84537c4ca",
+      "type": "info",
+      "message": "📢 New assignment synced: CV 2",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "2b8816cb-7576-42a5-9b28-c5b440ba4bfa",
+      "type": "info",
+      "message": "📢 New assignment synced: CV 3",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "dff12a97-44f4-41aa-bbc2-c78d617dfa0f",
+      "type": "info",
+      "message": "📢 New assignment synced: CV 4",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "644226cc-ad68-4139-be9e-02ef6b256e37",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT 2",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "838c5447-3100-4515-a02a-f7b7192550e9",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT 4",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "f4ba4314-58a3-40db-8876-75299a60fb2a",
+      "type": "info",
+      "message": "📢 New assignment synced: IOT 5",
+      "timestamp": "2025-11-08T12:16:06.361Z"
+    },
+    {
+      "id": "9fdb0a29-21ad-4f9e-a104-4345c17e048e",
+      "type": "info",
+      "message": "📢 New assignment synced: New Assignment",
+      "timestamp": "2025-11-08T12:16:06.362Z"
+    },
+    {
+      "id": "10ecc002-a813-49f2-aa53-480f8fdebd56",
+      "type": "info",
+      "message": "📢 New assignment synced: CN",
+      "timestamp": "2025-11-08T12:16:06.362Z"
+    },
+    {
+      "id": "e02996b9-7efa-4ef3-8efa-06ccc0e11a67",
+      "type": "info",
+      "message": "📢 New assignment synced: E2E Test Assignment from Assistant",
+      "timestamp": "2025-11-08T12:16:06.456Z"
+    },
+    {
+      "id": "b8d2613b-2fa3-4e9d-a98b-d15213787484",
+      "type": "info",
+      "message": "📢 New assignment synced: ML",
+      "timestamp": "2025-11-08T12:16:06.510Z"
+    },
+    {
+      "id": "b96a3e7d-2f33-40bc-a1c8-47443c14f946",
+      "type": "info",
+      "message": "📢 New external assignment: DBMS",
+      "timestamp": "2025-11-08T12:23:23.298Z"
+    },
+    {
+      "id": "d14be7ce-6f19-47d9-a3e5-357c0c477213",
+      "type": "info",
+      "message": "📢 New external assignment: Internet of Things",
+      "timestamp": "2025-11-08T12:34:38.099Z"
+    },
+    {
+      "title": "🆕 Record Submission (General) at 2025-11-19T19:55",
+      "message": "🆕 Record Submission (General) at 2025-11-19T19:55",
+      "timestamp": "2025-11-08T14:05:01.461Z"
+    },
+    {
+      "id": "cc-92",
+      "title": "General",
+      "message": "Isro Visit: Monday we are visiting ISRO .",
+      "timestamp": "2025-11-08T11:46:37.320Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-93",
+      "title": "General",
+      "message": "Record Submission: Submit your IOT Records ASAP",
+      "timestamp": "2025-11-19T14:25:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 Record Submission (General) at 2025-11-08T19:35",
+      "message": "🆕 Record Submission (General) at 2025-11-08T19:35",
+      "timestamp": "2025-11-08T14:06:03.559Z"
+    },
+    {
+      "id": "cc-94",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am.",
+      "timestamp": "2025-11-08T12:16:06.353Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-95",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.353Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-96",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.354Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-97",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.358Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-98",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.359Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-99",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.360Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-100",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-101",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-102",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-103",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-104",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-105",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-106",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.361Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-107",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.362Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-108",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.362Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-109",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.457Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-110",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.513Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-111",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am.",
+      "timestamp": "2025-11-08T12:16:06.599Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-128",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm.",
+      "timestamp": "2025-11-08T12:23:23.314Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-129",
+      "title": "General",
+      "message": "New External Assignment: Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm.",
+      "timestamp": "2025-11-08T12:34:38.117Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-130",
+      "title": "General",
+      "message": "Reminder (1440m): Internet of Things: Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z",
+      "timestamp": "2025-11-08T12:34:41.759Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-131",
+      "title": "General",
+      "message": "Reminder (60m): Internet of Things: Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z",
+      "timestamp": "2025-11-08T12:34:41.761Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 Record Submission (General) at 2025-11-08T22:22",
+      "message": "🆕 Record Submission (General) at 2025-11-08T22:22",
+      "timestamp": "2025-11-08T14:07:33.593Z"
+    },
+    {
+      "title": "🆕 Record submission (General) at 2025-11-09T03:03",
+      "message": "🆕 Record submission (General) at 2025-11-09T03:03",
+      "timestamp": "2025-11-08T14:16:23.590Z"
+    },
+    {
+      "id": "cc-230",
+      "title": "General",
+      "message": "Record submission: Submit your records ASAP",
+      "timestamp": "2025-11-08T21:33:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 Record submission (General) at 2025-01-12T22:22",
+      "message": "🆕 Record submission (General) at 2025-01-12T22:22",
+      "timestamp": "2025-11-08T14:18:47.623Z"
+    },
+    {
+      "title": "🆕 BDA (Assignment) at 2025-01-08T23:24",
+      "message": "🆕 BDA (Assignment) at 2025-01-08T23:24",
+      "timestamp": "2025-11-08T14:34:09.767Z"
+    },
+    {
+      "title": "🆕 ADA (HallTicket) at 2025-12-12T12:12",
+      "message": "🆕 ADA (HallTicket) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T14:39:43.351Z"
+    },
+    {
+      "id": "cc-370",
+      "title": "HallTicket",
+      "message": "ADA: HAllticket",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 OP (Assignment) at 2025-12-12T12:12",
+      "message": "🆕 OP (Assignment) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T14:46:44.781Z"
+    },
+    {
+      "title": "🆕 OP (Alert) at 2025-12-12T12:12",
+      "message": "🆕 OP (Alert) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T14:48:00.730Z"
+    },
+    {
+      "id": "cc-453",
+      "title": "Alert",
+      "message": "OP: Notification Testing",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 TOC (Assignment) at 2025-12-14T13:32",
+      "message": "🆕 TOC (Assignment) at 2025-12-14T13:32",
+      "timestamp": "2025-11-08T15:06:05.785Z"
+    },
+    {
+      "id": "cc-484",
+      "title": "Notice",
+      "message": "test: Updates",
+      "timestamp": "2025-11-10T06:51:00.000Z",
+      "type": "notice",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-485",
+      "title": "Assignment",
+      "message": "TOC: Submit Your assignment",
+      "timestamp": "2025-12-14T08:02:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 DSA (Assignment) at 2025-11-11T12:12",
+      "message": "🆕 DSA (Assignment) at 2025-11-11T12:12",
+      "timestamp": "2025-11-08T16:09:34.341Z"
+    },
+    {
+      "id": "cc-515",
+      "title": "Assignment",
+      "message": "DSA: DSA Quiz",
+      "timestamp": "2025-11-11T06:42:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 DSA (General) at 2025-12-12T12:12",
+      "message": "🆕 DSA (General) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T16:10:17.629Z"
+    },
+    {
+      "title": "🆕 TOC (Assignment) at 2025-11-20T11:00",
+      "message": "🆕 TOC (Assignment) at 2025-11-20T11:00",
+      "timestamp": "2025-11-08T18:20:16.535Z"
+    },
+    {
+      "title": "🆕 Internet of things (Assignment) at 2025-11-20T11:00",
+      "message": "🆕 Internet of things (Assignment) at 2025-11-20T11:00",
+      "timestamp": "2025-11-08T18:33:56.229Z"
+    },
+    {
+      "id": "cc-548",
+      "title": "General",
+      "message": "DSA: DSA Quizzes",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-575",
+      "title": "Assignment",
+      "message": "TOC: everyone submit your records ASAP",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 FEE DUE (Fees) at 2025-11-23T11:00",
+      "message": "🆕 FEE DUE (Fees) at 2025-11-23T11:00",
+      "timestamp": "2025-11-08T18:37:52.102Z"
+    },
+    {
+      "id": "cc-576",
+      "title": "Assignment",
+      "message": "Internet of things: everyone submit the records ASAP",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-577",
+      "title": "manual",
+      "message": "HOLIDAY : Tomorrow is holiday on account of kanakadasa jayanthi ",
+      "timestamp": "2025-11-08T18:19:23.178Z",
+      "type": "manual",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-578",
+      "title": "manual",
+      "message": "holiday: tomorrow is holiday on account of kanakadasa jayanthi",
+      "timestamp": "2025-11-08T18:17:33.168Z",
+      "type": "manual",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "🆕 hall ticket (HallTicket) at 2025-11-20T11:00",
+      "message": "🆕 hall ticket (HallTicket) at 2025-11-20T11:00",
+      "timestamp": "2025-11-08T18:44:22.494Z"
+    },
+    {
+      "id": "cc-611",
+      "title": "Fees",
+      "message": "FEE DUE: submit",
+      "timestamp": "2025-11-23T05:30:00.000Z",
+      "type": "fees",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-646",
+      "title": "HallTicket",
+      "message": "hall ticket: everyone come to exam section near A block and collect your exam hall ticket",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-647",
+      "title": "manual",
+      "message": "hall ticket receive: come to exam section and receive ur hall ticket\n",
+      "timestamp": "2025-11-08T18:39:22.922Z",
+      "type": "manual",
+      "source": "collegeconnect"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "cc-485",
+      "title": "TOC",
+      "message": "Submit Your assignment",
+      "timestamp": "2025-12-14T08:02:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-370",
+      "title": "ADA",
+      "message": "HAllticket",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-453",
+      "title": "OP",
+      "message": "Notification Testing",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-548",
+      "title": "DSA",
+      "message": "DSA Quizzes",
+      "timestamp": "2025-12-12T06:42:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-60",
+      "title": "New Assignment: E2E node test",
+      "message": "created by node e2e script",
+      "timestamp": "2025-11-30T06:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-611",
+      "title": "FEE DUE",
+      "message": "submit",
+      "timestamp": "2025-11-23T05:30:00.000Z",
+      "type": "fees",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-575",
+      "title": "TOC",
+      "message": "everyone submit your records ASAP",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-576",
+      "title": "Internet of things",
+      "message": "everyone submit the records ASAP",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-646",
+      "title": "hall ticket",
+      "message": "everyone come to exam section near A block and collect your exam hall ticket",
+      "timestamp": "2025-11-20T05:30:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-59",
+      "title": "New Assignment: Test HW for E2E",
+      "message": "Short practice",
+      "timestamp": "2025-11-20T00:00:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-93",
+      "title": "Record Submission",
+      "message": "Submit your IOT Records ASAP",
+      "timestamp": "2025-11-19T14:25:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-515",
+      "title": "DSA",
+      "message": "DSA Quiz",
+      "timestamp": "2025-11-11T06:42:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-484",
+      "title": "test",
+      "message": "Updates",
+      "timestamp": "2025-11-10T06:51:00.000Z",
+      "type": "notice",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-230",
+      "title": "Record submission",
+      "message": "Submit your records ASAP",
+      "timestamp": "2025-11-08T21:33:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "b56a55f3-e1fa-4fd7-aa34-a0918bec4ad5",
+      "title": "hall ticket receive",
+      "message": "come to exam section and receive ur hall ticket\n",
+      "type": "manual",
+      "timestamp": "2025-11-08T18:39:22.922Z"
+    },
+    {
+      "id": "0215a06a-f7f8-4de9-9cc9-52fef4e1c13c",
+      "title": "HOLIDAY ",
+      "message": "Tomorrow is holiday on account of kanakadasa jayanthi ",
+      "type": "manual",
+      "timestamp": "2025-11-08T18:19:23.178Z"
+    },
+    {
+      "id": "9b09d24b-5853-4645-8a3e-cc0e0db69582",
+      "title": "holiday",
+      "message": "tomorrow is holiday on account of kanakadasa jayanthi",
+      "type": "manual",
+      "timestamp": "2025-11-08T18:17:33.168Z"
+    },
+    {
+      "title": "Reminder (60m): Internet of Things",
+      "message": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z",
+      "timestamp": "2025-11-08T12:34:41.761Z"
+    },
+    {
+      "title": "Reminder (1440m): Internet of Things",
+      "message": "Reminder: \"Internet of Things\" is due on 2025-11-08T13:00:00.000Z",
+      "timestamp": "2025-11-08T12:34:41.759Z"
+    },
+    {
+      "id": "1ef00bee-21a1-4e70-853c-734e1aa51351",
+      "title": "New External Assignment",
+      "message": "Assignment \"Internet of Things\" is due on 8/11/2025, 6:30:00 pm.",
+      "timestamp": "2025-11-08T12:34:38.117Z"
+    },
+    {
+      "id": "cf6aa8ce-9f14-4c2b-841a-e13e25f9ab3c",
+      "title": "New External Assignment",
+      "message": "Assignment \"DBMS\" is due on 7/11/2025, 3:11:00 pm.",
+      "timestamp": "2025-11-08T12:23:23.314Z"
+    },
+    {
+      "id": "6e2e5f2f-30e5-4467-8875-f526e35fd7d1",
+      "title": "New External Assignment",
+      "message": "Assignment \"E2E Test Assignment from Assistant\" is due on 1/12/2025, 12:00:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.690Z"
+    },
+    {
+      "id": "2ee66127-9f70-4bd8-8d23-1b9ab9dd655f",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT 4\" is due on 5/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.603Z"
+    },
+    {
+      "id": "daa9e71b-2570-44a0-baad-0a711253820c",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT 5\" is due on 15/11/2025, 1:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.603Z"
+    },
+    {
+      "id": "1f5cd78b-8a4c-49ae-b8cf-5e153f8ac327",
+      "title": "New External Assignment",
+      "message": "Assignment \"New Assignment\" is due on 15/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.603Z"
+    },
+    {
+      "id": "0f98fb5c-fd34-4e62-9b19-25f8962907ad",
+      "title": "New External Assignment",
+      "message": "Assignment \"CN\" is due on 10/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.603Z"
+    },
+    {
+      "id": "df3512b5-a1a4-43a1-9ee5-80ead9e0f8fc",
+      "title": "New External Assignment",
+      "message": "Assignment \"Water Assignment\" is due on 16/11/2025, 4:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "a8d0585e-2499-4662-9445-fcb2d7531817",
+      "title": "New External Assignment",
+      "message": "Assignment \"Water Assignment 2\" is due on 5/11/2025, 12:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "54258834-e440-4d46-acfc-0a467375512d",
+      "title": "New External Assignment",
+      "message": "Assignment \"Water assignment 3\" is due on 12/11/2025, 1:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "4efd7b19-0ce8-46be-ab9b-3522f14068ac",
+      "title": "New External Assignment",
+      "message": "Assignment \"CV 2\" is due on 25/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "ab725450-ccef-4ef2-9bc2-f61cf8a6bb8e",
+      "title": "New External Assignment",
+      "message": "Assignment \"CV 3\" is due on 5/11/2025, 1:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "ebb692bb-c8a6-44ed-bed8-440ec7e45c44",
+      "title": "New External Assignment",
+      "message": "Assignment \"CV 4\" is due on 5/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "def16123-ff30-4897-92ec-3b5d2b531ec9",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT 2\" is due on 15/11/2025, 4:25:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.602Z"
+    },
+    {
+      "id": "117aa51e-72d5-4a6f-a0fa-375b31ab73b3",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT assignment 1\" is due on 4/11/2025, 2:30:00 am.",
+      "timestamp": "2025-11-08T12:16:06.601Z"
+    },
+    {
+      "id": "96d096ef-d038-493f-ab3c-f2b816dc6383",
+      "title": "New External Assignment",
+      "message": "Assignment \"CV Assignment 2\" is due on 4/11/2025, 2:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.601Z"
+    },
+    {
+      "id": "a569478d-792b-4833-a680-6a448cbd83e9",
+      "title": "New External Assignment",
+      "message": "Assignment \"PC Seminar\" is due on 4/11/2025, 3:20:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.601Z"
+    },
+    {
+      "id": "5c0a121b-a75d-49bb-9778-6ccc83dc2f1e",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT Assignments\" is due on 4/11/2025, 4:30:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.601Z"
+    },
+    {
+      "id": "bd1d33b6-4a1c-4316-8376-b9a1ebdbc7d4",
+      "title": "New External Assignment",
+      "message": "Assignment \"IOT Assignment 1\" is due on 4/11/2025, 2:00:00 am.",
+      "timestamp": "2025-11-08T12:16:06.599Z"
+    },
+    {
+      "id": "a17f27b3-2ef8-42e5-ba1f-198c55795a17",
+      "title": "New External Assignment",
+      "message": "Assignment \"ML\" is due on 8/2/2025, 5:45:00 pm.",
+      "timestamp": "2025-11-08T12:16:06.513Z"
+    },
+    {
+      "title": "Isro Visit",
+      "message": "Monday we are visiting ISRO .",
+      "timestamp": "2025-11-08T11:46:37.320Z"
+    },
+    {
+      "id": "cc-89",
+      "title": "LAb IA 2",
+      "message": "we are issuing the Hall tickets",
+      "timestamp": "2025-11-08T11:45:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-88",
+      "title": "IA 3",
+      "message": "Exams due",
+      "timestamp": "2025-11-08T10:12:00.000Z",
+      "type": "hallticket",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-78",
+      "title": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "message": "🆕 Test (Fees) at 2025-11-30T15:15",
+      "timestamp": "2025-11-08T09:41:27.623Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-77",
+      "title": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "message": "🆕 hallticket (Fees) at 2025-11-08T15:11",
+      "timestamp": "2025-11-08T09:39:08.039Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-76",
+      "title": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "message": "🆕 Hall ticket (Notice) at 2025-11-08T15:10",
+      "timestamp": "2025-11-08T09:38:12.056Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-75",
+      "title": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "message": "🆕 IA 8 (HallTicket) at 2025-11-08T15:06",
+      "timestamp": "2025-11-08T09:35:10.513Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-62",
+      "title": "New Assignment: E2E Debug Assignment",
+      "message": "Created to verify announcements",
+      "timestamp": "2025-11-08T09:29:02.838Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-72",
+      "title": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "message": "🆕 SEM EXAMS (HallTicket) at 2025-11-08T14:59",
+      "timestamp": "2025-11-08T09:29:02.824Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-74",
+      "title": "🆕 jlkdamnxz (Fees) at 2025-12-12T12:12",
+      "message": "🆕 jlkdamnxz (Fees) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:37.880Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-70",
+      "title": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "message": "🆕 Final Testing (Alert) at 2025-12-12T12:12",
+      "timestamp": "2025-11-08T09:21:06.724Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-73",
+      "title": "General Alert",
+      "message": "Manual test alert from Dashboard",
+      "timestamp": "2025-11-08T09:15:06.746Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-68",
+      "title": "General Alert",
+      "message": "Exam last day",
+      "timestamp": "2025-11-08T07:21:03.797Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "Reminder (60m): E2E Debug Assignment",
+      "message": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z",
+      "timestamp": "2025-11-08T07:09:02.320Z"
+    },
+    {
+      "id": "cc-67",
+      "title": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "message": "🆕 Quiz (Alert) at 2025-11-08T12:15",
+      "timestamp": "2025-11-08T06:40:40.408Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-66",
+      "title": "General Alert",
+      "message": "Test alert from PS at 2025-11-08T12:05:04",
+      "timestamp": "2025-11-08T06:35:04.637Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-61",
+      "title": "New Assignment: Reminder 60m Test",
+      "message": "Due soon",
+      "timestamp": "2025-11-08T06:31:39.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "Testing ",
+      "message": "Some random testing ",
+      "timestamp": "2025-11-08T06:27:02.747Z"
+    },
+    {
+      "title": "UI Test Announcement",
+      "message": "This announcement created via API to test UI form",
+      "timestamp": "2025-11-08T06:20:12.250Z"
+    },
+    {
+      "title": "Reminder (1440m): E2E Debug Assignment",
+      "message": "Reminder: \"E2E Debug Assignment\" is due on 2025-11-08T08:08:22.000Z",
+      "timestamp": "2025-11-08T06:08:49.116Z"
+    },
+    {
+      "id": "cc-65",
+      "title": "New Assignment",
+      "message": "📝 New Assignment Added: E2E Debug Assignment (due 8/11/2025, 1:38:22 pm)",
+      "timestamp": "2025-11-08T06:08:23.039Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "Assignment Due: E2E Debug Assignment",
+      "message": "Assignment \"E2E Debug Assignment\" is due on 8/11/2025, 1:38:22 pm. Created to verify announcements",
+      "timestamp": "2025-11-08T06:08:23.038Z",
+      "type": "assignment",
+      "deadline": "2025-11-08T13:38:22"
+    },
+    {
+      "title": "Reminder (60m): Reminder 60m Test",
+      "message": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z",
+      "timestamp": "2025-11-08T05:42:16.890Z"
+    },
+    {
+      "title": "Reminder (1440m): Reminder 60m Test",
+      "message": "Reminder: \"Reminder 60m Test\" is due on 2025-11-08T06:31:39.000Z",
+      "timestamp": "2025-11-08T05:42:16.889Z"
+    },
+    {
+      "title": "Assignment Due: Reminder 60m Test",
+      "message": "Assignment \"Reminder 60m Test\" is due on 2025-11-08T12:01:39. Due soon",
+      "timestamp": "2025-11-08T05:41:39.872Z"
+    },
+    {
+      "id": "cc-64",
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: Reminder 60m Test",
+      "timestamp": "2025-11-08T05:41:39.872Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "title": "Assignment Due: E2E node test",
+      "message": "Assignment \"E2E node test\" is due on 2025-11-30T12:00:00. created by node e2e script",
+      "timestamp": "2025-11-08T05:39:45.544Z"
+    },
+    {
+      "id": "cc-63",
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: E2E node test",
+      "timestamp": "2025-11-08T05:39:45.544Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-58",
+      "title": "New Assignment",
+      "message": "📘 New Assignment Added: Test HW for E2E",
+      "timestamp": "2025-11-08T05:25:17.380Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-56",
+      "title": "General Alert",
+      "message": "Manual test alert from UI",
+      "timestamp": "2025-11-07T19:10:52.736Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-55",
+      "title": "General Alert",
+      "message": "Manual test alert from Assignments page",
+      "timestamp": "2025-11-07T19:10:52.730Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-53",
+      "title": "General Alert",
+      "message": "🆕 Exam (General) at 2025-11-12T00:32",
+      "timestamp": "2025-11-07T18:59:47.779Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-31",
+      "title": "Alert: Integration Test Alert",
+      "message": "Test from assistant",
+      "timestamp": "2025-11-07T18:53:39.563Z",
+      "type": "alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-32",
+      "title": "Integration Test Alert",
+      "message": "Test from assistant",
+      "timestamp": "2025-11-07T18:53:39.563Z",
+      "type": "integration test alert",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-34",
+      "title": "New Assignment: DBMS Lab Report Submission",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-35",
+      "title": "New Assignment: Operating Systems Quiz",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-36",
+      "title": "New Assignment: AI Mini Project Proposal",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-37",
+      "title": "New Assignment: IOT Assignment 1",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-38",
+      "title": "New Assignment: IOT assignment 1",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-39",
+      "title": "New Assignment: CV Assignment 2",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-40",
+      "title": "New Assignment: PC Seminar",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-41",
+      "title": "New Assignment: IOT Assignments",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-42",
+      "title": "New Assignment: Water Assignment",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-43",
+      "title": "New Assignment: Water Assignment 2",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-44",
+      "title": "New Assignment: Water assignment 3",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-45",
+      "title": "New Assignment: CV 2",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-46",
+      "title": "New Assignment: CV 3",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-47",
+      "title": "New Assignment: CV 4",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-48",
+      "title": "New Assignment: IOT 2",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-49",
+      "title": "New Assignment: IOT 4",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-50",
+      "title": "New Assignment: IOT 5",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-51",
+      "title": "New Assignment: New Assignment",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-52",
+      "title": "New Assignment: CN",
+      "message": "",
+      "timestamp": "2025-11-07T17:34:16.086Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-6",
+      "title": "Holiday",
+      "message": "This week Saturday will be holiday",
+      "timestamp": "2025-11-07T15:55:00.000Z",
+      "type": "notice",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-8",
+      "title": "College fees",
+      "message": "All students clear your dues",
+      "timestamp": "2025-11-07T05:41:00.000Z",
+      "type": "fees",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-279",
+      "title": "Record submission",
+      "message": "submit ur record",
+      "timestamp": "2025-01-12T16:52:00.000Z",
+      "type": "general",
+      "source": "collegeconnect"
+    },
+    {
+      "id": "cc-327",
+      "title": "BDA",
+      "message": "submit assignment",
+      "timestamp": "2025-01-08T17:54:00.000Z",
+      "type": "assignment",
+      "source": "collegeconnect"
+    }
+  ]
+}
