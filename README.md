@@ -110,11 +110,3 @@ If you hit upload-related errors, look for Multer / file-size messages in the se
 - CampusFlow backend uses `data.json` in `backend/` for persisted demo data. Back up before modifying in production.
 - The backend automatically serves `frontend/` if present; this makes local testing simpler.
 
-## License
-
-This repo is provided as-is for demo/learning purposes. Add a license file if you plan to distribute.
-
----
-If you'd like, I can also:
-- create minimal `package.json` files for the ExternalApp so `npm install` is more straightforward, and
-- add small start scripts or a top-level `Makefile`/scripts to run the whole stack with one command.
